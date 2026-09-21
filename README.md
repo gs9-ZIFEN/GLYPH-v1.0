@@ -33,9 +33,3 @@
 | **TIFF** | Yes | Yes | High-quality format for publishing and print |
 
 ---
-
-### [ QUICK START & BUILD ]
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/gs9-ZIFEN/GLYPH-v1.0.git](https://github.com/gs9-ZIFEN/GLYPH-v1.0.git)
