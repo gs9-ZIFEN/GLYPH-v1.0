@@ -1,9 +1,7 @@
-
-﻿# GLYPH-v1.0
 <div align="center">
 
-# ─── G L Y P H ───
-### [ OFFLINE IMAGE CONVERTER // CORE ]
+# ─── G L Y PH ───
+### [ OFFLINE IMAGE CONVERTER ]
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-white?style=flat-square&color=000000)
 ![Python](https://img.shields.io/badge/PYTHON-3.14-white?style=flat-square&color=222222)
@@ -14,16 +12,16 @@
 ---
 
 ### [ SYSTEM OVERVIEW ]
-**GLYPH** — это ультра-минималистичный десктопный конвертер изображений с поддержкой пользовательского фона, анимаций и интерфейса в стиле матового стекла (Glassmorphism). Работает полностью локально, без подключения к интернету, обеспечивая максимальную скорость и конфиденциальность.
+**GLYPH** is an ultra-minimalist desktop image converter featuring custom background animations, smooth fade effects, and a glassmorphism dark UI. It operates entirely offline without requiring an internet connection, ensuring maximum performance and complete privacy.
 
 ---
 
 ### [ KEY FEATURES ]
-* **Full Offline Core:** Никаких сетевых запросов, вся обработка происходит локально на вашем ПК.
-* **Multi-Format Support:** Конвертация между популярными форматами: `WEBP`, `PNG`, `JPEG`, `ICO`, `BMP`, `TIFF`.
-* **Drag & Drop Engine:** Интуитивное перетаскивание файлов прямо в рабочую зону приложения.
-* **Visual Atmosphere:** Плавные анимации появления/затухания, кастомный темный дизайн и поддержка GIF-фонов.
-* **Standalone Executable:** Легко упаковывается в единый `.exe` файл через PyInstaller.
+* **Full Offline Core:** No network requests; all image processing runs locally on your PC.
+* **Multi-Format Support:** Seamless conversion between popular formats: `WEBP`, `PNG`, `JPEG`, `ICO`, `BMP`, `TIFF`.
+* **Drag & Drop Engine:** Intuitive file dropping directly into the application workspace.
+* **Visual Atmosphere:** Smooth window opening/closing animations, custom dark aesthetic, and background GIF support.
+* **Standalone Executable:** Easily packable into a single self-contained `.exe` file via PyInstaller.
 
 ---
 
@@ -31,17 +29,17 @@
 
 | Format | Read | Write | Description |
 | :--- | :---: | :---: | :--- |
-| **WEBP** | Yes | Yes | Современный формат сжатия с потерями и без |
-| **PNG** | Yes | Yes | Растровый формат с поддержкой прозрачности |
-| **JPEG** | Yes | Yes | Классический формат для фотографий |
-| **ICO** | Yes | Yes | Иконки для приложений и сайтов |
-| **BMP** | Yes | Yes | Без сжатия |
-| **TIFF** | Yes | Yes | Высокое качество для полиграфии |
+| **WEBP** | Yes | Yes | Modern compression format with/without loss |
+| **PNG** | Yes | Yes | Raster graphic format with transparency support |
+| **JPEG** | Yes | Yes | Standard compressed format for photographs |
+| **ICO** | Yes | Yes | Icon format for apps and web favicons |
+| **BMP** | Yes | Yes | Uncompressed bitmap format |
+| **TIFF** | Yes | Yes | High-quality format for publishing and print |
 
 ---
 
 ### [ QUICK START & BUILD ]
 
-1. Клонируйте репозиторий:
+1. Clone the repository:
    ```bash
    git clone [https://github.com/gs9-ZIFEN/GLYPH-v1.0.git](https://github.com/gs9-ZIFEN/GLYPH-v1.0.git)
