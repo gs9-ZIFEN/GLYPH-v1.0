@@ -3,10 +3,6 @@
 # ─── G L Y PH ───
 ### [ OFFLINE IMAGE CONVERTER ]
 
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-white?style=flat-square&color=000000)
-![Python](https://img.shields.io/badge/PYTHON-3.14-white?style=flat-square&color=222222)
-![PyQt6](https://img.shields.io/badge/UI-PyQt6-white?style=flat-square&color=333333)
-
 </div>
 
 ---
